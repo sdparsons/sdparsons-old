@@ -6,31 +6,38 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "/publication"
+  weight = 2
 
 [[main]]
+  name = "Medium blog"
+  url = "https://medium.com/@Sam_D_Parsons/"
+  weight = 5
+  
+ [[main]]
+    name = "CV"
+    url = "static/files/Sam_Parsons_cv.pdf"
+    weight = 6
+    
+ [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/cv.pdf"
-#    weight = 70
+
