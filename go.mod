@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic
+module github.com/sdparsons/sdparsons
 
 go 1.15
 
