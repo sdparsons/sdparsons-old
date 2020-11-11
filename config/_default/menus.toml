@@ -30,7 +30,7 @@
   
  [[main]]
     name = "CV"
-    url = "static/files/Sam_Parsons_cv.pdf"
+    url = "Sam_Parsons_cv.pdf"
     weight = 6
     
  [[main]]
