@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The CogBIAS longitudinal study protocol: cognitive and genetic factors influencing
-  psychological functioning in adolescence'
+title: 'The CogBIAS longitudinal study protocol: cognitive and genetic factors influencing psychological functioning in adolescence'
 subtitle: ''
 summary: ''
 authors:
@@ -37,13 +36,7 @@ projects: []
 publishDate: '2020-11-06T17:00:56.777641Z'
 publication_types:
 - '2'
-abstract: 'Background: Optimal psychological development is dependent upon a complex
-  interplay between individual and situational factors. Investigating the development
-  of these factors in adolescence will help to improve understanding of emotional
-  vulnerability and resilience. The CogBIAS longitudinal study (CogBIAS-L-S) aims
-  to combine cognitive and genetic approaches to investigate risk and protective factors
-  associated with the development of mood and impulsivity-related outcomes in an adolescent
-  sample. Methods: CogBIAS-L-S is a three-wave longitudinal study of typically developing
+abstract: 'Background: Optimal psychological development is dependent upon a complex interplay between individual and situational factors. Investigating the development of these factors in adolescence will help to improve understanding of emotional vulnerability and resilience. The CogBIAS longitudinal study (CogBIAS-L-S) aims to combine cognitive and genetic approaches to investigate risk and protective factors associated with the development of mood and impulsivity-related outcomes in an adolescent sample. Methods: CogBIAS-L-S is a three-wave longitudinal study of typically developing
   adolescents conducted over 4 years, with data collection at age 12, 14 and 16. At
   each wave participants will undergo multiple assessments including a range of selective
   cognitive processing tasks (e.g. attention bias, interpretation bias, memory bias)
