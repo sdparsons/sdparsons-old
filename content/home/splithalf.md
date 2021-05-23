@@ -2,13 +2,13 @@
 # splithalf widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "splithalf"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-# hero_media = "hero-academic.png"
+ hero_media = "splithalf.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,11 +17,11 @@ title = "splithalf"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
- #color = 'DarkBlue'
+  color = 'LightCyan'
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -31,20 +31,20 @@ title = "splithalf"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://github.com/sdparsons/splithalf"
-  label = "Github repo"
+  label = "Github repo & documentation"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://sdparsons.github.io/splithalf_documentation/"
-  label = "View Documentation"
+  url = "https://joss.theoj.org/papers/10.21105/joss.03041"
+  label = "Journal of Open Source Software"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
@@ -57,6 +57,6 @@ title = "splithalf"
 
 **Estimate the internal consistency of your tasks with a permutation based split-half reliability approach.**
 
-***Latest version: 0.7.1 "Kitten Mittens"***
+***Latest version: 0.8.1 "Rum Ham"***
 
 

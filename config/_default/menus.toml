@@ -9,11 +9,6 @@
   weight = 1
 
 #[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
-
-#[[main]]
 #  name = "Projects"
 #  url = "#projects"
 #  weight = 30
@@ -22,6 +17,11 @@
   name = "Publications"
   url = "/publication"
   weight = 2
+
+[[main]]
+  name = "Posts"
+  url = "/post"
+  weight = 3
 
 [[main]]
   name = "Medium blog"
